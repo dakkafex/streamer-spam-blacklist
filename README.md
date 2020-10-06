@@ -14,6 +14,7 @@ Are you a mature stream but want to bar racial slurs, including ones spelled in 
 You can for example choose to copy the racial slurs list, or if you want to keep sexual remarks out of your chat, use the sexual comments list.
 
 **Do keep in mind**
+
 That these lists aren't perfect and are not a catch all solution to moderating your community, people are always going to find ways around filters.
 
 The main intention (in our case at least) for using blacklists, is to stop bots, spammers, trolls and the likes.
