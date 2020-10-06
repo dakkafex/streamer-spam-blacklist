@@ -1,3 +1,4 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/dakkafex/Twitch-spam-blacklist?style=for-the-badge)
 # Twitch Spam Blacklists
 hello,
 This is an attempt to create a centralized repository for curated lists for the most popular streaming tools, like Nightbot.
