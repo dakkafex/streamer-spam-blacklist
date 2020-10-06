@@ -28,6 +28,7 @@ In order to make use of these lists, simply check out the directory and look for
  3. Go to the options of  **Blacklist Words/Phrases**(make sure it is enabled).
  4. Paste the raw text into **Blacklist** option.
  5. Save the list.
+ 6. If you want to use multiple lists, copy and paste multiple ones, we try to not re-use words in other lists.
 
 ## Improve the lists
 Everyone is welcome to improve the list, just fork the repo and make a pull request when you are done so it can be added to our main repository. 
