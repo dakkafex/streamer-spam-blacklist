@@ -30,6 +30,14 @@ In order to make use of these lists, simply check out the directory and look for
  5. Save the list.
  6. If you want to use multiple lists, copy and paste multiple ones, we try to not re-use words in other lists.
 
+## The Big User Ban list
+This list is made up out of users that have been reported by multiple users/teams, not just a single person.
+
+As this list is compiled from different ban lists that can possibly contain the same user multiple times, we check the list and make sure it is **free of duplicates**.
+
+**I am on this list!**
+If you find yourself on this list **please do not** make an issue or contact us, we have no way of verifying if your ban was unjust, if you have been blocked from a streamers channel and your name is on this list, try to contact the streamer/team, they wil contact us to confirm your removal.
+
 ## Improve the lists
 Everyone is welcome to improve the list, just fork the repo and make a pull request when you are done so it can be added to our main repository. 
 
