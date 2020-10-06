@@ -1,0 +1,32 @@
+DO NOT COPY THIS PART!!!
+
+this list will attempt to block the following:
+fag
+faggot
+nigger
+negro
+dyke
+chink
+coon
+trannie
+tranny
+retard
+sand monkey
+
+regex:
+~//g 
+[^string]*?
+
+!COPY THE LIST BELOW!!
+
+~/f[^string]*?a[^string]*?g[^string]*?/g
+~/f[^string]*?a[^string]*?g[^string]*?g[^string]*?o[^string]*?t/g
+~/n[^string]*?i[^string]*?g[^string]*?g[^string]*?e[^string]*?r/g
+~/n[^string]*?e[^string]*?g[^string]*?r[^string]*?o/g
+~/d[^string]*?y[^string]*?k[^string]*?e/g
+~/c[^string]*?h[^string]*?i[^string]*?n[^string]*?k/g
+~/c[^string]*?o[^string]*?o[^string]*?n/g
+~/t[^string]*?r[^string]*?a[^string]*?n[^string]*?n[^string]*?i[^string]*?e/g
+~/t[^string]*?r[^string]*?a[^string]*?n[^string]*?n[^string]*?y/g
+~/r[^string]*?e[^string]*?t[^string]*?a[^string]*?r[^string]*?d/g
+~/s[^string]*?a[^string]*?n[^string]*?d[^string]*?m[^string]*?o[^string]*?n[^string]*?k[^string]*?e[^string]*?y/g
