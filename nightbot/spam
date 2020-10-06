@@ -1,3 +1,13 @@
+DO NOT COPY THIS PART!!!
+
+this list will attempt to block multiple words and attempts at getting around link filters
+
+regex:
+~//g 
+[^string]*?
+
+!COPY THE LIST BELOW!!
+
 bigfollows*
 twitchfollowers*
 Wanna become famous?*
