@@ -4,6 +4,7 @@ this list will attempt to block any variation on:
 yiff in hell
 dog fucker
 zoophile
+furfag
 
 regex:
 ~//g 
@@ -14,3 +15,4 @@ regex:
 ~/z[^string]*?o[^string]*?o[^string]*?p[^string]*?h[^string]*?i[^string]*?l[^string]*?e/g
 ~/y[^string]*?i[^string]*?f[^string]*?f[^string]*?i[^string]*?n[^string]*?h[^string]*?e[^string]*?l[^string]*?l/g
 ~/d[^string]*?o[^string]*?g[^string]*?f[^string]*?u[^string]*?c[^string]*?k[^string]*?e[^string]*?r/g
+~/f[^string]*?u[^string]*?r[^string]*?f[^string]*?a[^string]*?g/g 
