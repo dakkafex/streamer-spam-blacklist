@@ -1,6 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/dakkafex/Twitch-spam-blacklist?label=Las%20Updated&style=for-the-badge)
 
-# Twitch Spam Blacklists
+# Streamer Spam Blacklists
 
 Hello,
 
