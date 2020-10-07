@@ -2,6 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/dakkafex/Twitch-spam-blacklist?label=Las%20Updated&style=for-the-badge)
 # Twitch Spam Blacklists
 hello,
+
 This is an attempt to create a centralized repository for curated lists for the most popular streaming tools, like Nightbot.
 
 Apart from just regular phrases, the lists also incorporates regular expressions ([regex](https://en.wikipedia.org/wiki/Regular_expression))
