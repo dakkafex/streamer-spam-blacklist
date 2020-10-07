@@ -1,3 +1,4 @@
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/dakkafex/Twitch-spam-blacklist?label=Las%20Updated&style=for-the-badge)
 # Twitch Spam Blacklists
 hello,
@@ -19,6 +20,18 @@ That these lists aren't perfect and are not a catch all solution to moderating y
 
 The main intention (in our case at least) for using blacklists, is to stop bots, spammers, trolls and the likes.
 It is up to you to create the community you want instead of muzzling them, because nobody likes overzealous chat filters. 
+
+## Blacklist Types
+As you can see we have different folders and different names per list, here is an attempt to explain what each list is for.
+Because not every bot/tool supports regex, some lists might be less flexible and only contain words where as some only contain regex.
+|List Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Description  |
+|-|-|
+|spam  |General spam bots that try to advertise services or things with malicious links|
+|slurs| Common slurs for any group ( ethnic, sexuality, ableist, etc... ) |
+|furry| Common derogatory words and phrases used against the furry community|
+|horny jail | Words that contain sexual explicit meaning excluding overlapping swears like fuck or pussy|
+|nsfw| General list for nsfw |
+
 ## Instructions
 In order to make use of these lists, simply check out the directory and look for the list that applies to your use case, copy the text and paste it in your blacklists settings.
 
